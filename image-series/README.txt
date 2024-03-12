@@ -1,1 +1,1 @@
-In diesem Ordner können Experimente eingefügt werden. Das Skript batch-analyse.py erkennt diese und ermittelt automatisch die Volumina der Musterserien der einzelnen Experimente.
+Adding experiments to this folder allows them to automatically be detected by "batch-analyse.py" and their volumes to be determined.
