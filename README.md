@@ -1,6 +1,12 @@
 # A Laser-based Volumetric Measurement Approach for Industrial Settings
 This repository complements our publication "A Laser-based Volumetric Measurement Approach for Industrial Settings", soon to be published in IEEE International Conference on Automation Science and Engineering (CASE) 2024.
 
+The repository provides further insight into our experimental section and contains the following:
+- The calibration approach ('calibration' folder)
+- The resulting images taken during our experiments ('image-series' folder)
+- The numerical results of the experiments as an excel sheet ('MeasurementResultsAndTiming.xlsx')
+- The main script used to conduct the experiments ('batch-analyse.py')
+- The required dependencies ('requirements.txt')
 
 This work is part of the project "Silicon Economy Logistics Ecosystem" which is funded by the German Federal Ministry of Transport and Digital Infrastructure.
     
